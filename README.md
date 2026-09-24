@@ -74,8 +74,8 @@ current process/session unless the user explicitly downloads a report.
 ### Windows PowerShell
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/reddit-profile-visibility-auditor.git
-cd reddit-profile-visibility-auditor
+git clone https://github.com/Roidneg/ProfileLens_reddit_Visibility_auditor.git
+cd ProfileLens_reddit_Visibility_auditor
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install --upgrade pip
@@ -86,8 +86,8 @@ streamlit run app.py
 ### macOS or Linux
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/reddit-profile-visibility-auditor.git
-cd reddit-profile-visibility-auditor
+git clone https://github.com/Roidneg/ProfileLens_reddit_Visibility_auditor.git
+cd ProfileLens_reddit_Visibility_auditor
 python -m venv .venv
 source .venv/bin/activate
 python -m pip install --upgrade pip
